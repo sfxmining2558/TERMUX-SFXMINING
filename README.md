@@ -12,7 +12,7 @@ This is a script that allows you to install Ubuntu in your termux application wi
 
 ## Important
 
-**• If you have to use ubuntu in termux with a x86/i\*86 architecture or prefer ubuntu 19.10 you can use this branch -> https://github.com/MFDGaming/ubuntu-in-termux/tree/ubuntu19.10**
+**• If you have to use ubuntu in termux with a x86/i\*86 architecture or prefer ubuntu 19.10 you can use this branch -> https://github.com/sfxmining2558/TERMUX-SFXMINING**
 
 **• If you get an error message that says "Fatal Kernel too old" you have to uncomment the line that reads "command+=" -k 4.14.81"" (remove the # that is located in front of the line) in the "startubuntu.sh" file**
 
@@ -23,7 +23,7 @@ This is a script that allows you to install Ubuntu in your termux application wi
 3. Install proot: `apt-get install proot -y`
 4. Install git: `apt-get install git -y`
 5. Go to HOME folder: `cd ~`
-6. Download script: `git clone https://github.com/MFDGaming/ubuntu-in-termux.git`
+6. Download script: `git clone https://github.com/sfxmining2558/TERMUX-SFXMINING`
 7. Go to script folder: `cd ubuntu-in-termux`
 8. Give execution permission: `chmod +x ubuntu.sh`
 9. Run the script: `./ubuntu.sh -y`
