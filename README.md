@@ -24,7 +24,7 @@ This is a script that allows you to install Ubuntu in your termux application wi
 4. Install git: `apt-get install git -y`
 5. Go to HOME folder: `cd ~`
 6. Download script: `git clone https://github.com/sfxmining2558/TERMUX-SFXMINING.git`
-7. Go to script folder: `cd ubuntu-in-termux`
+7. Go to script folder: `cd TERMUX-SFXMINING`
 8. Give execution permission: `chmod +x sfxmining.sh`
 9. Run the script: `./sfxmining.sh -y`
 10. Now just start ubuntu: `./startsfxmining.sh`
